@@ -30,6 +30,8 @@
 
 <div class="main">
     <div>Kontakt</div>
+    <p>Hallihalløj</p>
+
 </div>
 
 <?php include "includes/footer.php"; ?>
